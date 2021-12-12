@@ -1,3 +1,3 @@
-import AddUserForm from "./AddUserForm";
+import AddUserForm from './AddUserForm';
 
 export default AddUserForm;

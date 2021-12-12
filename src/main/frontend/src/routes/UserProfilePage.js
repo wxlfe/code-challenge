@@ -1,10 +1,10 @@
-import { useParams } from "react-router";
-import UserProfile from "../components/UserProfile";
+import { useParams } from 'react-router';
+import UserProfile from '../components/UserProfile';
 
 const UserProfilePage = () => {
-    let params = useParams();
+  let params = useParams();
 
-    return <UserProfile params={ params } />
-}
+  return <UserProfile params={params} />;
+};
 
 export default UserProfilePage;

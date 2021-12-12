@@ -1,26 +1,26 @@
 .EditUserForm {
-    display: flex;
-    flex-direction: column;
-    text-align: center;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
 }
 
 .EditUserForm form {
-    display: flex;
-    flex-direction: column;
-    padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  padding: 1rem;
 }
 
 .EditUserForm form .form-internal {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 1rem;
-    padding: 1rem;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+  padding: 1rem;
 }
 
 .EditUserForm form .submit {
-    padding: 1rem;
-    border-radius: 1rem;
-    border: none;
-    background: #414042;
-    color: #e1b243;
+  padding: 1rem;
+  border-radius: 1rem;
+  border: none;
+  background: #414042;
+  color: #e1b243;
 }

@@ -1,13 +1,13 @@
-import { Outlet } from "react-router";
-import Header from "../components/Header";
+import { Outlet } from 'react-router';
+import Header from '../components/Header';
 
 const Edit = () => {
-    return (
-        <>
-            <Header />
-            <Outlet />
-        </>
-    )
-}
+  return (
+    <>
+      <Header />
+      <Outlet />
+    </>
+  );
+};
 
 export default Edit;

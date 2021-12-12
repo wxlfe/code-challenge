@@ -1,10 +1,10 @@
-import { useParams } from "react-router";
-import EditUserForm from "../components/EditUserForm";
+import { useParams } from 'react-router';
+import EditUserForm from '../components/EditUserForm';
 
 const EditUserPage = () => {
-    let params = useParams();
+  let params = useParams();
 
-    return <EditUserForm params={ params } />
-}
+  return <EditUserForm params={params} />;
+};
 
 export default EditUserPage;
