@@ -1,0 +1,26 @@
+.listing {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-top: 1rem;
+    border-bottom: 1px solid #414042;
+  }
+  
+  .listing div {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    padding: 1rem;
+  }
+
+  .listing div a {
+    color: #e1b243;
+    text-decoration: none;
+    padding: 1rem;
+    border-radius: 1rem;
+    background: #414042;
+  }
+
+  .listing div a:hover {
+    box-shadow: 0 0 5px 0 #e1b243;
+  }

@@ -1,0 +1,17 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.main .user-info {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  padding: 1rem;
+}
+
+.main .user-options {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}

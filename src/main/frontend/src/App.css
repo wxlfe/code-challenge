@@ -1,0 +1,15 @@
+h3, h4, h5, h6, p {
+    color: #414042;
+}
+
+button {
+    background: #414042;
+    color: #e1b243;
+    border: none;
+    border-radius: 1rem;
+    padding: 1rem;
+}
+  
+button:hover {
+    box-shadow: 0 0 5px 0 #e1b243;
+}
