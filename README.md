@@ -10,8 +10,8 @@ Within the lifeway-code-challenge directory, run `mvn spring-boot:run`, and the 
 ## Frontend
 ### Using Yarn
 1. Run `yarn` to install dependencies.
-2. Run `yarn start` to start the standard dev server at (localhost:3000)[http://localhost:3000].
+2. Run `yarn start` to start the standard dev server at <http://localhost:3000>.
 
 ### Using NPM
 1. Run `npm i` to install dependencies.
-2. Run `npm start` to start the standard dev server at (localhost:3000)[http://localhost:3000].
+2. Run `npm start` to start the standard dev server at <http://localhost:3000>.
