@@ -1,4 +1,4 @@
-package dev.wxlfe.lifewaycodechallenge.profile;
+package dev.wxlfe.codechallenge.profile;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;

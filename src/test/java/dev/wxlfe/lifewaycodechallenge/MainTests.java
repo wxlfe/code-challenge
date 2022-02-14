@@ -1,4 +1,4 @@
-package dev.wxlfe.lifewaycodechallenge;
+package dev.wxlfe.codechallenge;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,6 +1,6 @@
-package dev.wxlfe.lifewaycodechallenge.profile;
+package dev.wxlfe.codechallenge.profile;
 
-import dev.wxlfe.lifewaycodechallenge.datastore.FakeUserProfileDataStore;
+import dev.wxlfe.codechallenge.datastore.FakeUserProfileDataStore;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
 

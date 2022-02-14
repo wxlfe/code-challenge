@@ -7,7 +7,7 @@ const Header = (props) => {
     <header>
       <div>
         <Link to='/' className='header-home'>
-          <h1>Lifeway Code Challenge</h1>
+          <h1>User Directory</h1>
         </Link>
       </div>
       <div>

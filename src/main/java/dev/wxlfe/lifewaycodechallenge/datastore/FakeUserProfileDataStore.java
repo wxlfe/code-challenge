@@ -1,6 +1,6 @@
-package dev.wxlfe.lifewaycodechallenge.datastore;
+package dev.wxlfe.codechallenge.datastore;
 
-import dev.wxlfe.lifewaycodechallenge.profile.UserProfile;
+import dev.wxlfe.codechallenge.profile.UserProfile;
 import org.springframework.stereotype.Repository;
 
 import java.util.ArrayList;

@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>dev.wxlfe</groupId>
-	<artifactId>lifeway-code-challenge</artifactId>
+	<artifactId>code-challenge</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>lifeway-code-challenge</name>
-	<description>Lifeway Code Challenge</description>
+	<name>code-challenge</name>
+	<description>Code Challenge</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>

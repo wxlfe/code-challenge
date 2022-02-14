@@ -1,4 +1,4 @@
-package dev.wxlfe.lifewaycodechallenge.profile;
+package dev.wxlfe.codechallenge.profile;
 
 import java.util.Objects;
 
