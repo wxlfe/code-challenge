@@ -1,10 +1,10 @@
-# Lifeway Code Challenge
+# Code Challenge
 To run this application, start the backend followed by the frontend. The application includes default users on initial 
 start-up, but these can be deleted or modified like any other user. 
 
 ## Backend
 Running the backend requires maven (I used version 3.8.4) and Java (I used version 17.0.1) to be installed. 
-Within the lifeway-code-challenge directory, run `mvn spring-boot:run`, and the backend will start at 
+Within the code-challenge directory, run `mvn spring-boot:run`, and the backend will start at 
 <http://localhost:8080>.
 
 ## Frontend
